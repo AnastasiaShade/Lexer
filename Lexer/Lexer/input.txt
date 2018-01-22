@@ -1,0 +1,48 @@
+  int int8 = 0d;  
+  int int6 = 123f;
+  int int7 = 123a ;  int int6 = 12_3;
+  int int9 = 0000 ;
+
+  float fl1 =  1.;
+  float fl2 =  ;
+  float fl3 =  1.1.1;
+  float fl4 = 1.1a;
+  float fl5 = 1.a;
+  float fl6 = 000123.123;
+  float fl7 = 123.000123;
+  
+  float fl8 = 0b1010;  float fl1 = 0b150;
+  float fl8 = 0c7150;  float fl1 = 0cfff;
+  float fl8 = 0hFFF;  float fl1 = 0hjhgf;
+
+"fghjk  fghj\"ytr"
+"sdfghjkl
+'ertyuio'
+
+{}
+)
+(
+()
+/**/
+  /*lead comment*/  int/* next *//* and second comment in a row */ // and single line comment 	  /*123*/
+main()    
+{ 
+  string str&ng;
+  int Ab = NULL;
+  float fLOat.float;
+  char _ch;
+  
+  int1=a+b;
+  int int2= a- b;
+  int int3 =a /b;
+  int int4 = a * b;
+  int int5 = a  % b;
+  
+  bool bool1 = a < b;
+  bool bool2 = a > b;
+  bool trigger = false;
+  bool anotherTrigger = true;
+  bool third = !trigger;
+  
+  
+  //
